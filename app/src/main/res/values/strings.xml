@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Newspaper</string>
+    <string name="main_category">Category</string>
+    <string name="details_edit_image">Edit image</string>
+    <string-array name="categories">
+        <item>All</item>
+        <item>National</item>
+        <item>Economy</item>
+        <item>Sports</item>
+        <item>Technology</item>
+    </string-array>
+    <string name="username">Username</string>
+    <string name="enter_the_username">Enter the Username</string>
+    <string name="password">Password</string>
+    <string name="enter_the_password">Enter the Password</string>
+    <string name="remember_me">Remember Me</string>
+    <string name="login">Login</string>
+    <string name="logout">Log out</string>
+    <string name="logged_out_message">User logged out successfully</string>
+    <string name="go_to_articles">Go to Articles</string>
+    <string name="details_delete_article">Delete article</string>
+    <string name="delete_article_title">Are you sure you want to delete the article?</string>
+    <string name="delete_article_description">By clicking "Confirm" you agree that you want to delete the item.</string>
+</resources>
